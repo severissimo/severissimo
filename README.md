@@ -1,5 +1,7 @@
 - 👋 Olar, @severissimo aqui!
-Retired athlete learning tech.
+
+
+A retired athlete learning tech.
 
 I’m currently learning HTML, CSS, JS and Cypress
 
