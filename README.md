@@ -1,4 +1,4 @@
-- 👋 Olar, @severissimo aqui!
+👋 Olar, @severissimo aqui!
 
 
 A retired athlete learning tech.
