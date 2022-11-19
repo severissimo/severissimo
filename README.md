@@ -1,9 +1,6 @@
-👋 Olar, @severissimo aqui!
+👋 A retired athlete learning tech.
 
-
-A retired athlete learning tech.
-
-I’m currently learning HTML, CSS, JS and Cypress
+I’m currently learning Cypress, JS and Node.
 
 <!---
 severissimo/severissimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
